@@ -1,0 +1,62 @@
+create table categoria(
+id_categoria int auto_increment,
+descripcion varchar(50),
+primary key (id_categoria)
+);
+
+create table producto(
+id_producto int auto_increment,
+Clave_producto varchar(10),
+descripcion_producto varchar (50),
+color varchar (15),
+cantidad int,
+fecha date,
+precio int,
+categoria int,
+
+primary key (id_producto),
+foreign key (categoria) references categoria(id_categoria));
+
+
+
+create table cliente(
+id_cliente int auto_increment,
+razon varchar(50),
+direccion varchar,
+n_e varchar(10),
+n_i varchar(10),
+colonia varchar (10),
+c.p. varchar (5),
+referencias varchar (100),
+primary key (id_cliente));
+
+
+create table usuario
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

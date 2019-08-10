@@ -1,0 +1,14 @@
+-->busqueda en nota
+-->correcion de precio por clave
+-->agregar productos en nota
+-->busquedad de productos en nota
+-->agregar nombre de la persona en cotizaciones y notas
+modificar cotizaciones y notas
+-->folio manualmente
+notas por sistema reimprimir
+notas con status general
+-->corregir usuarios.
+-->corregir codigos postales
+-->eliminar productos
+-->datos mal estructurados
+
